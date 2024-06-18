@@ -603,7 +603,7 @@ img, video, iframe, embed, object {
     display: block;
     outline: none;
     text-decoration: none;
-    padding: 20px 0;
+    padding: 5000px 0;
 }
 
 .item-content .fa {
