@@ -350,7 +350,7 @@ a:hover {
 }
 
 .navbar-inverse .navbar-nav > .active > a, .navbar-inverse .navbar-nav > .active > a:hover, .navbar-inverse .navbar-nav > .active > a:focus {
-    color: #311E00;
+    color: #00ffe5;
     background: none;
 }
 
@@ -358,7 +358,7 @@ a:hover {
     border: 1px solid #fff;
     border-top: none;
     border-bottom: none;
-    background: #FFC780;
+    background: #ffffff;
 }
 
 .navbar-nav > li:hover > a {
@@ -390,7 +390,7 @@ a:hover {
 }
 
 .page-section h2 {
-    color: #f49500;
+    color: #000000;
 }
 
 .page-section p {
