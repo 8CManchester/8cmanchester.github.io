@@ -583,7 +583,7 @@ img, video, iframe, embed, object {
 /* Services
     -------------------------------------------------*/
 .grid .text-content {
-    padding-left: 50%;
+    padding-left: 35%;
 }
 
 .grid .text-content {
@@ -603,7 +603,7 @@ img, video, iframe, embed, object {
     display: block;
     outline: none;
     text-decoration: none;
-    padding: 50px 0;
+    padding: 20px 0;
 }
 
 .item-content .fa {
