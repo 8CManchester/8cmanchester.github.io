@@ -213,8 +213,8 @@ a:hover {
 }
 
 .navbar-inverse .navbar-toggle {
-    border-color: #f49500;
-    background-color: #f49500;
+    border-color: #ffffff;
+    background-color: #00f4e4;
 }
 
 .navbar-inverse .navbar-toggle .icon-bar {
@@ -223,11 +223,11 @@ a:hover {
 }
 
 .navbar-inverse .navbar-toggle:hover, .navbar-inverse .navbar-toggle:focus {
-    background: #f49500;
+    background: #ffffff;
 }
 
 .navbar-inverse .navbar-nav > li > a:hover, .navbar-inverse .navbar-nav > li > a:focus {
-    color: #311E00;
+    color: ##0a0600;
 }
 
 .navbar-inverse .navbar-toggle:hover .icon-bar {
