@@ -768,6 +768,7 @@ nav#filter a {
 
 #services .col-md-3 {
     opacity: 0;
+    right: 10px;
 }
 
 .fancybox-overlay {
