@@ -293,7 +293,7 @@ a:hover {
 }
 
 .circle {
-    background: #f49500;
+    background: #add8e6;
     height: 90px;
     width: 90px;
     border-radius: 95px;
@@ -302,7 +302,7 @@ a:hover {
 }
 
 #section-strapline {
-    background: #f00bfff;
+    background: #f00bff;
     line-height: 42px;
     clear: both;
 }
@@ -612,6 +612,12 @@ img, video, iframe, embed, object {
     font-size: 4.5em;
     top: 36px;
 }
+
+{
+    position: absolute;
+    right: 500px;
+}
+
 /* Team
     ---------------------------------------------------*/
 .team-member {
@@ -768,6 +774,8 @@ nav#filter a {
 
 #services .col-md-3 {
     opacity: 0;
+    position: relative;
+    right: -150px;
 }
 
 .fancybox-overlay {
