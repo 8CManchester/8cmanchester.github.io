@@ -768,6 +768,7 @@ nav#filter a {
 
 #services .col-md-3 {
     opacity: 0;
+    position: absolute;
     right: 10px;
 }
 
