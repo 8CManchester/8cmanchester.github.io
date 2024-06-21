@@ -952,8 +952,10 @@ footer {
 }
 
 .clients .helper img {
+    position: relative;
+    left: 230px;
     vertical-align: middle;
-    max-height: 70px;
+    max-height: 150px;
     max-width: 80%;
 }
 
