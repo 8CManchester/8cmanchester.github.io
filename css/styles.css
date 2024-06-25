@@ -631,6 +631,7 @@ img, video, iframe, embed, object {
 
 .team-member .member-img img {
     max-width: 250px;
+    max-height: 250px;
     margin: 0 auto;
 }
 
