@@ -228,7 +228,7 @@ a:hover {
 }
 
 .navbar-inverse .navbar-nav > li > a:hover, .navbar-inverse .navbar-nav > li > a:focus {
-    color: ##0a0600;
+    color: #0a0600;
 }
 
 .navbar-inverse .navbar-toggle:hover .icon-bar {
@@ -363,11 +363,11 @@ a:hover {
 }
 
 .navbar-nav > li:hover > a {
-    color: #fff;
+    color: #add8e6;
 }
 
 .header .navbar-nav > li > a {
-    padding: 25px 18px;
+    padding: 10px 20px;
 }
 
 .page-section {
